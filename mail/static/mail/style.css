@@ -1,0 +1,32 @@
+span{
+    min-height: 400px;
+    width: 210px;
+}
+
+
+
+.read{
+    background-color:rgb(236, 234, 234);
+    
+
+}
+
+.unread{
+    background-color:rgb(203, 21, 21);
+  
+}
+
+
+.userInputs{
+    width: 910px;
+    margin-left:13px;
+}
+.subject{
+  
+    margin-left:13px;
+
+}
+
+#postBtn{
+    margin-left:13px;
+}
